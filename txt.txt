@@ -1,0 +1,6 @@
+Fatura UFMG
+  Hamlet: R$ 650,00 (55 assentos)
+  As You Like It: R$ 580,00 (35 assentos)
+  Othello: R$ 500,00 (40 assentos)
+Valor total: R$ 1.730,00
+Créditos acumulados: 47
